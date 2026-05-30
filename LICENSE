@@ -1,0 +1,9 @@
+This project includes engine source derived from the EDuke32 / NBlood / Rednukem
+lineage, which is licensed under the GNU General Public License, version 2.
+
+See file headers in NBlood-master/source/ and:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+Redneck Rampage game assets (REDNECK.GRP and related files) are not part of this
+repository and remain the property of their respective rights holders. You must
+use files from a copy of the game that you own legally.
